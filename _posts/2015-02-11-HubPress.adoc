@@ -1,0 +1,26 @@
+= HubPress
+
+:hp-tags: GitHub
+
+初回は本ブログの作成元となった
+https://github.com/HubPress/hubpress.io[HubPress/hubpress.io]
+について。
+
+https://github.com/HubPress/hubpress.io[HubPress/hubpress.io]
+を使えば
+https://pages.github.com/[GitHub Pages]
+上でブログを構築できます。
+まだ誰も
+https://github.com/HubPress/hubpress.io/blob/8c2c9059e457f882b8e6a9230a2addbda58015f5/README.adoc[README.adoc]
+を日本語翻訳していなそうだったので
+https://github.com/takkyuuplayer/takkyuuplayer.github.io/blob/dev-translate-readme-to-japanese/README-ja.adoc[翻訳]
+しました。 設定方法はそちらをご確認ください。
+
+
+現状
+https://github.com/HubPress/hubpress.io[HubPress/hubpress.io]
+で記事を書くには
+http://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc]
+を用いる必要があります。 
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet[Markdown]
+と構文が似ているので結構覚えやすいです。  
