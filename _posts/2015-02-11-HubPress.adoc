@@ -13,8 +13,8 @@ https://pages.github.com/[GitHub Pages]
 まだ誰も
 https://github.com/HubPress/hubpress.io/blob/8c2c9059e457f882b8e6a9230a2addbda58015f5/README.adoc[README.adoc]
 を日本語翻訳していなそうだったので
-https://github.com/takkyuuplayer/takkyuuplayer.github.io/blob/dev-translate-readme-to-japanese/README-ja.adoc[翻訳]
-しました。 設定方法はそちらをご確認ください。
+https://github.com/HubPress/hubpress.io/blob/master/README-ja.adoc[翻訳]
+してPull Request出しました。 設定方法はそちらをご確認ください。
 
 
 現状
